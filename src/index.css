@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:wght@300;400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+font-family: "Inter", sans-serif;
+
+}
+
+/* CSS styles with good contrast against black background */
+.html-tech {
+    color: #ee3838; /* Coral (for HTML) */
+  }
+  
+  .css-tech {
+    color: #17a5d4; /* Deep Sky Blue (for CSS) */
+  }
+  
+  .js-tech {
+    color: #ffff00; /* Yellow (for JavaScript) */
+  }
+  
+  .react-tech {
+    color: #0035e5; /* Cyan (for React) */
+  }
+  
+  
+  
